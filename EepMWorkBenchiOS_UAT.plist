@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key> 
+					<string>http://www.sippr.cn/EEPMUAT/install_app/eepm_ios/EepMWorkBenchiOS.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://www.sippr.cn/EEPMUAT/install_app/eepm_ios/EepMWorkBenchiOS_57_57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string></string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.sippr.EepMWorkBenchiOS</string>
+				<key>bundle-version</key>
+				<string>1.0.47</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>EepMWorkBenchiOS</string>
+				<key>title</key>
+				<string>六院效率助手</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
+
