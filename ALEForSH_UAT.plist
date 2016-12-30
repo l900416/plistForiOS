@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://125.46.29.147:8801/EepmInstallFile/ios/aleforsh/ALEForSH.ipa</string>
+					<string>http://125.46.29.147:8801/EepmInstallFile/ios/ccs/ALEForSH.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://125.46.29.147:8801/EepmInstallFile/ios/aleforsh/ALEForSH.png</string>
+					<string>http://125.46.29.147:8801/EepmInstallFile/ios/ccs/ALEForSH.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
