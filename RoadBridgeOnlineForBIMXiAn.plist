@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sippr.RoadBridgeOnlineForBIM</string>
+				<string>com.sippr.RoadBridgeOnlineForXiAn</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -46,6 +46,6 @@
 		</dict>
 	</array>
 	<key>New item</key>
-	<string>RoadBridgeOnlineForBIM.plist</string>
+	<string>RoadBridgeOnlineForBIMXiAn.plist</string>
 </dict>
 </plist>
