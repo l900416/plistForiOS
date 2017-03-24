@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://125.46.29.147:8851/EepmInstallFile/ios/ccs/ALEForSH.ipa</string>
+					<string>http://192.168.68.13:8851/EepmInstallFile/ios/ccs/ALEForSH.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://125.46.29.147:8851/EepmInstallFile/ios/ccs/ALEForSH.png</string>
+					<string>http://192.168.68.13:8851/EepmInstallFile/ios/lbs/ALE.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,19 +33,19 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sippr.ALEForShangHai</string>
+				<string>com.eep.CCSForGBIM</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>上海烟草园区服务</string>
+				<string>GBIM位置服务</string>
 				<key>title</key>
-				<string>上海烟草园区服务</string>
+				<string>GBIM位置服务</string>
 			</dict>
 		</dict>
 	</array>
 	<key>New item</key>
-	<string>ALEForShangHai_UAT.plist</string>
+	<string>CCS_GBIM.plist</string>
 </dict>
 </plist>
