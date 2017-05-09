@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key> 
-					<string>http://www.sippr.cn/EEPMUAT/install_app/eepm_ios/EepMWorkBenchiOS.ipa</string>
+					<string>http://eepmuat.sippr.cn/install_app/eepm_ios/EepMWorkBenchiOS.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.sippr.cn/EEPMUAT/install_app/eepm_ios/EepMWorkBenchiOS_57_57.png</string>
+					<string>http://eepmuat.sippr.cn/install_app/eepm_ios/EepMWorkBenchiOS_57_57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
