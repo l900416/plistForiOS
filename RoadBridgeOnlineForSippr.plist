@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.sippr.RoadBridgeOnlineForSippr</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0.18</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
@@ -46,6 +46,6 @@
 		</dict>
 	</array>
 	<key>New item</key>
-	<string>RoadBridgeOnlineForBIM.plist</string>
+	<string>RoadBridgeOnlineForSippr.plist</string>
 </dict>
 </plist>
