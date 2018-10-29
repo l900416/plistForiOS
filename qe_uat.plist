@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://125.46.29.147:8801/EepmInstallFile/ios/StandardVerification/StandardVerification.ipa</string>
+					<string>http://125.46.29.147:8801/EepmInstallFile/ios/qe/qe_v2.0.0_r4263.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://125.46.29.147:8801/EepmInstallFile/ios/StandardVerification/StandardVerification.png</string>
+					<string>http://125.46.29.147:8801/EepmInstallFile/ios/qe/qe.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,19 +33,19 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.eep.StandardVerification</string>
+				<string>com.eep.qe</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>标准验证</string>
+				<string>智能制造诊断</string>
 				<key>title</key>
-				<string>标准验证</string>
+				<string>智能制造诊断</string>
 			</dict>
 		</dict>
 	</array>
 	<key>New item</key>
-	<string>StandardVerification.plist</string>
+	<string>qe_uat.plist</string>
 </dict>
 </plist>
