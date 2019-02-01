@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key> 
-					<string>http://eepm.sippr.cn/install_app/eepm_ios/EepKMiOS_v1.1.10_r4731.ipa</string>
+					<string>http://eepm.sippr.cn/install_app/eepm_ios/km_v2.0.0_r4743.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://eepm.sippr.cn/install_app/eepm_ios/EepKMiOS_57_57.png</string>
+					<string>http://eepm.sippr.cn/install_app/eepm_ios/km-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.sippr.EepKMiOS</string>
 				<key>bundle-version</key>
-				<string>1.0.9</string>
+				<string>2.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
